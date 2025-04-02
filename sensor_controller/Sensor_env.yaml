@@ -1,0 +1,4 @@
+name: Sensor_env
+channels:
+  - defaults
+prefix: E:\anaconda3\envs\Sensor_env\envs\Sensor_env
